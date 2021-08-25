@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SeanCanoWebsite/static/css/main.cbabb0af.chunk.css",
+    "main.js": "/SeanCanoWebsite/static/js/main.4e9da379.chunk.js",
+    "main.js.map": "/SeanCanoWebsite/static/js/main.4e9da379.chunk.js.map",
+    "runtime-main.js": "/SeanCanoWebsite/static/js/runtime-main.0bf7fd69.js",
+    "runtime-main.js.map": "/SeanCanoWebsite/static/js/runtime-main.0bf7fd69.js.map",
+    "static/js/2.1984d64b.chunk.js": "/SeanCanoWebsite/static/js/2.1984d64b.chunk.js",
+    "static/js/2.1984d64b.chunk.js.map": "/SeanCanoWebsite/static/js/2.1984d64b.chunk.js.map",
+    "index.html": "/SeanCanoWebsite/index.html",
+    "static/css/main.cbabb0af.chunk.css.map": "/SeanCanoWebsite/static/css/main.cbabb0af.chunk.css.map",
+    "static/js/2.1984d64b.chunk.js.LICENSE.txt": "/SeanCanoWebsite/static/js/2.1984d64b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bf7fd69.js",
+    "static/js/2.1984d64b.chunk.js",
+    "static/css/main.cbabb0af.chunk.css",
+    "static/js/main.4e9da379.chunk.js"
+  ]
+}
